@@ -42,5 +42,8 @@
 		"tree_learner": "github:safinsingh/tree_learner_cli",
 		"valibot": "1.0.0-beta.8",
 		"wikipedia": "^2.1.2"
+	},
+	"engines": {
+		"node": ">=18.0.0 <21.0.0"
 	}
 }
